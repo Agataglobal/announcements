@@ -1,4 +1,4 @@
-### February Update 🚀 (Feb 2024)
+### Update 🚀 (2024)
 
 #### Summary of Changes
 - Added option to VRBO to save total amount paid instead of payout amount
