@@ -1,8 +1,8 @@
-### Update 🚀 (2024)
+### Update 🚀 (2025)
 
 #### Summary of Changes
-- Added option to VRBO to save total amount paid instead of payout amount
-- Improved tax and cancellation policy settings
-- Improved property search in navigation
+- New Connection: Pricelabs
+- Added API for Airbnb Checkout Tasks
+- Added a webhook notification for non acked booking event
 - You can now control the default values for all restrictions by setting it in the rate plan settings. These default values are applied when the rate is created and when a new date is opened up each day.
 - Added a channel report, you can access from the dashboard
